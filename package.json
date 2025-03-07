@@ -1,0 +1,14 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "Git repo for educational purposes",
+  "main": "index.js",
+  "repositoty": "git@github.com:gravitai06/git-extended.git",
+  "author": "Tsarev Max floozy06@mail.ru",
+  "license": "CC-BY-4.0",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}
